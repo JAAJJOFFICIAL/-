@@ -6,9 +6,6 @@
 body{
 	background-image: url("https://cbx-prod.b-cdn.net/COLOURBOX57035077.jpg?width=800&height=800&quality=70");
 }
-p{
-	background-color: black;
-}
-h1{
+.span{
 	background-color: black;
 }
