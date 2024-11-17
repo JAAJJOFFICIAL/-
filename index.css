@@ -6,3 +6,9 @@
 body{
 	background-image: url("https://cbx-prod.b-cdn.net/COLOURBOX57035077.jpg?width=800&height=800&quality=70");
 }
+button{
+	background-color: green;
+	color: black;
+	border-radius: 3px;
+	border: none;
+}
